@@ -28,8 +28,8 @@ This is a solution to the [Fylo dark theme landing page challenge on Frontend Me
 
 ### Links
 
-- Solution URL: [Solution github](https://github.com/jordanlaurent/huddle-landing-page-with-single-introductory-section-master)
-- Live Site URL: [Solution live site URL](https://jordanlaurent.github.io/huddle-landing-page-with-single-introductory-section-master/)
+- Solution URL: [Solution github](https://github.com/jordanlaurent/fylo-dark-theme-landing-page-master)
+- Live Site URL: [Solution live site URL](https://jordanlaurent.github.io/fylo-dark-theme-landing-page-master/)
 
 ## My process
 
