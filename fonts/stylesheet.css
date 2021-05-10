@@ -256,7 +256,7 @@ h2{font-size: 20px;font-weight: 600}
 .bloc_intro p{font-size: 12px;}
 a{font-size: 16px;}
 button{font-size: 12px;font-weight: 600}
-.bloc_testimonial article div h6 ,.bloc_testimonial article div p {line-height: 0px;}
+.bloc_testimonial div div h6 ,.bloc_testimonial div div p {line-height: 0px;}
 h6{font-family: 'Raleway';}
 ul{list-style: none;}
 
